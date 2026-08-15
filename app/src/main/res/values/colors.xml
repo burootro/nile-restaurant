@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- الخلفيات -->
+    <color name="ink">#FF070A0F</color>
+    <color name="ink_soft">#FF0C1119</color>
+    <color name="surface">#FF121A24</color>
+    <color name="surface_high">#FF161F2B</color>
+
+    <!-- النحاس -->
+    <color name="brass_light">#FFF8EBBB</color>
+    <color name="brass">#FFE8C466</color>
+    <color name="brass_deep">#FFC9962B</color>
+    <color name="brass_dark">#FFA9761B</color>
+
+    <!-- النص -->
+    <color name="cream">#FFF0E7D4</color>
+    <color name="muted">#FF8D97A6</color>
+
+    <!-- الجمر -->
+    <color name="ember">#FFE2603A</color>
+
+</resources>
