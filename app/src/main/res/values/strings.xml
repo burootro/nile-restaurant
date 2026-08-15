@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">مطعم النيل</string>
+    <string name="app_management">إدارة أولاد الحاج طلعت</string>
+    <string name="app_tagline">اسم له تاريخ</string>
+    <string name="app_slogan">أصل الصنعة .. أصل الطعم</string>
+    <string name="app_address">شارع الجمهورية — أمام صيدناوي</string>
+
+    <string name="phone_land_1">0862161566</string>
+    <string name="phone_land_2">0862161567</string>
+    <string name="phone_mobile_1">01012717371</string>
+    <string name="phone_mobile_2">01004790273</string>
+    <string name="whatsapp_number">201004790273</string>
+
+    <string name="action_call">اتصل</string>
+    <string name="action_order">شوف الطلب</string>
+    <string name="action_send_whatsapp">ابعت الطلب على واتساب</string>
+    <string name="action_clear">فضّي الطلب</string>
+    <string name="action_add">ضيف للطلب</string>
+
+    <string name="label_search">دوّر على أكلة…</string>
+    <string name="label_weight">اختار الوزن</string>
+    <string name="label_total">الإجمالي</string>
+    <string name="label_currency">ج</string>
+    <string name="label_cart_empty">الطلب فاضي — ضيف اللي نفسك فيه من المنيو</string>
+
+</resources>
